@@ -17,6 +17,23 @@
       "scantime": 10,
       "angle": 23,
       "symbol": "Hpt_XenoScanner_Basic_Tiny"
+    },
+    {
+      "class": 0,
+      "cost": 745950,
+      "edID": 128808878,
+      "grp": "xs",
+      "id": "3y",
+      "integrity": 56,
+      "mass": 1.30,
+      "name": "Enhanced Xeno Scanner",
+      "power": 0.8,
+      "range": 2000,
+      "rating": "C",
+      "boot": 2,
+      "scantime": 10,
+      "angle": 23,
+      "symbol": "Hpt_XenoScannerMk2_Basic_Tiny"
     }
   ]
 }
